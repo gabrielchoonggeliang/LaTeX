@@ -1,0 +1,6 @@
+# Logs and other files
+*.aux
+*.log
+
+# Generated files
+*.pdf
